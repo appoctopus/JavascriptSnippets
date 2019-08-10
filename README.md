@@ -7,4 +7,4 @@ JavaScriptSnippet is a Github repo that has a collection of JavaScript Snippets.
 
 
 ## Folder Structure
-* JSSnippet - React Native mobile app
+* mobileapp/JSSnippet - React Native mobile app
