@@ -11,5 +11,6 @@ if(keysArr.length === 0) {
     //non empty
 }
 ```
-Browser Support: Its supported in all major browsers and also NodeJS
+Object.keys() Browser Support: Its supported in all major browsers and also NodeJS
+
 Reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys
