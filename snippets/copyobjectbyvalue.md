@@ -7,7 +7,7 @@ var obj = {
   a: 1, 
   b:2
 }
-var copy = { ...obj }; //{a: 1. b: 2}
+var copy = { ...obj }; //{a: 1, b: 2}
 ```
 
 Now modifying copy's attributes will not modify our original object.
