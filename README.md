@@ -18,3 +18,7 @@ Follow the instruction below to commit
 ```
 git commit -m "Snippet1: Find if an object is empty"
 ```
+
+### Follow us on the Social Network
+* Twitter - https://twitter.com/JavaScriptSnip1
+* Twitter handle - @JavaScriptSnip1
