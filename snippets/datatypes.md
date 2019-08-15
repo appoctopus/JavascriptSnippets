@@ -26,7 +26,7 @@ var sym = Symbol('a');
 typeof sym; //"symbol"
 ```
 
-Rest all are objects for eg. Array, RegExp, Functions, Objects
+Rest all are objects for eg. Array, RegExp, Functions, Objects etc.
 
 ```js
 var arr = [];
@@ -37,3 +37,5 @@ var f = function() {};
 typeof f; //"function"
 f instanceof Object; //true
 ```
+
+Explore more...
