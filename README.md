@@ -4,8 +4,8 @@
 JavaScriptSnippet is a Github repo that has a collection of JavaScript Snippets. Your daily dose of JavaScript tips and tricks and knowledge.
 
 ## Folder Structure
-/snippets - contains all the JS snippets
-/exercises - contains programming challenges.
+* /snippets - contains all the JS snippets
+* /exercises - contains programming challenges.
 
 ## Commit instructions
 Follow the instruction below to commit
