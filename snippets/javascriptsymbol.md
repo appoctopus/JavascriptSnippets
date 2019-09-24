@@ -1,4 +1,4 @@
-### What is a JavaScrit Symbol type?
+### What is a JavaScript Symbol type?
 
 JavaScript has a new primitive data type called Symbol() that was added in the ES6 spec. 
 
